@@ -1,0 +1,5 @@
+package jslHrd.exam.domain;
+
+public class GuestDTO {
+
+}

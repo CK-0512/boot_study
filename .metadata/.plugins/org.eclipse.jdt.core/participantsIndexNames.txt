@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\Users\오창기\programing\sts-JSL\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2276007490.index
+\exam\src\main\java
+C:\Users\오창기\programing\sts-JSL\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1234725041.index
+\exam\src\main\java
+C:\Users\오창기\programing\sts-JSL\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3807926.index
+\exTest\src\main\java
+C:\Users\오창기\programing\sts-JSL\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3139714324.index
+\exam\src\main\java

@@ -1,0 +1,18 @@
+package jslHrd.exam.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class ExamController {
+	@GetMapping("")
+	public String IndexTest {
+		return "index";
+	}
+	
+	
+	@GetMapping("/aaa")
+	public String linkTest() {
+		return "aaa";
+	}
+}

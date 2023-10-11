@@ -1,0 +1,10 @@
+package jslHrd.exam.domain;
+
+public class GuestDTO {
+	private int idx;
+	private String name;
+	private String subject;
+	private String contents;
+	private String regDate;
+	private int readCnt
+}
